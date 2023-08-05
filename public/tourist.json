@@ -1,0 +1,38 @@
+[
+  {
+    "photo": "https://i.ibb.co/xfg6yCZ/Spokane-Winter-Solo-onthetripside-6270.webp",
+    "name": "John Doe",
+    "details": "Photographer, nature lover, adventurer",
+    "facebook": "https://www.facebook.com/johndoe",
+    "pinterest": "https://www.pinterest.com/johndoe",
+    "twitter": "https://www.twitter.com/johndoe",
+    "instagram": "https://www.instagram.com/johndoe"
+  },
+  {
+    "photo": "https://i.ibb.co/R98BVLW/ice-fishing-st-lawrence-county-helms-big-tupper-charters2.jpg",
+    "name": "Jane Smith",
+    "details": "Artist, foodie, cat lover, and aspiring world traveler",
+    "facebook": "https://www.facebook.com/janesmith",
+    "pinterest": "https://www.pinterest.com/janesmith",
+    "twitter": "https://www.twitter.com/janesmith",
+    "instagram": "https://www.instagram.com/janesmith"
+  },
+  {
+    "photo": "https://i.ibb.co/G0shRqC/Fernie-Golfrs-275x275.jpg",
+    "name": "David Johnson",
+    "details": "Fitness trainer, sports lover, aspiring world traveler",
+    "facebook": "https://www.facebook.com/davidjohnson",
+    "pinterest": "https://www.pinterest.com/davidjohnson",
+    "twitter": "https://www.twitter.com/davidjohnson",
+    "instagram": "https://www.instagram.com/davidjohnson"
+  },
+  {
+    "photo": "https://i.ibb.co/MhRQQS3/ice-fishing-rainbow-trout-flaming-gorge-mosley-ryan-2015.jpg",
+    "name": "Emily Davis",
+    "details": "Fashion blogger, coffee addict, bookworm, and aspiring writer",
+    "facebook": "https://www.facebook.com/emilydavis",
+    "pinterest": "https://www.pinterest.com/emilydavis",
+    "twitter": "https://www.twitter.com/emilydavis",
+    "instagram": "https://www.instagram.com/emilydavis"
+  }
+]

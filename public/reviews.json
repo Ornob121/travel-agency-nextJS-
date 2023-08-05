@@ -1,0 +1,114 @@
+[
+  {
+    "name": "Emily Johnson",
+    "photo": "https://i.ibb.co/h1MnMvL/p1.jpg",
+    "review": "I recently traveled to Switzerland with this agency, and I had an amazing experience. The staff was friendly and professional, and they made sure I had a memorable trip. The snow-capped mountains and charming villages were breathtaking. I highly recommend this agency for your winter getaway!",
+    "rating": 5,
+    "tourPlace": "Switzerland"
+  },
+  {
+    "name": "Michael Anderson",
+    "photo": "https://i.ibb.co/s2cfqkw/p2.png",
+    "review": "My family and I went on a skiing trip to Canada organized by this agency, and it exceeded our expectations. The slopes were fantastic, and the instructors were knowledgeable. The agency took care of all the details, allowing us to relax and enjoy our vacation. We can't wait to book another trip!",
+    "rating": 4.5,
+    "tourPlace": "Canada"
+  },
+  {
+    "name": "Sophia Garcia",
+    "photo": "https://i.ibb.co/Q6z1RR7/p3.jpg",
+    "review": "I traveled to Finland with this agency to experience the magical Northern Lights, and it was a dream come true. The accommodations were cozy, and the activities, such as husky sledding and snowshoeing, were thrilling. The agency's attention to detail made my trip truly unforgettable.",
+    "rating": 4.8,
+    "tourPlace": "Finland"
+  },
+  {
+    "name": "Daniel Thompson",
+    "photo": "https://i.ibb.co/r71fKsf/p4.jpg",
+    "review": "I recently explored Iceland's winter wonders with this agency, and I couldn't be happier with the experience. From the mesmerizing ice caves to the geothermal hot springs, every moment was filled with awe. The knowledgeable guides provided valuable insights about the country's unique landscapes.",
+    "rating": 4.7,
+    "tourPlace": "Iceland"
+  },
+  {
+    "name": "Olivia Roberts",
+    "photo": "https://i.ibb.co/HGNV8cV/p6.jpg",
+    "review": "My trip to Norway organized by this agency was nothing short of magical. The stunning fjords and the chance to witness the dancing Northern Lights were incredible. The agency's attention to detail and excellent customer service made it a wonderful experience.",
+    "rating": 4.9,
+    "tourPlace": "Norway"
+  },
+  {
+    "name": "Ethan Baker",
+    "photo": "https://i.ibb.co/6Dn55nc/p7.jpg",
+    "review": "I traveled to Austria with this agency for a ski vacation, and it was fantastic. The slopes were well-maintained, and the resort had excellent amenities. The agency's expertise in organizing winter trips ensured that everything went smoothly. I can't wait to go back next year!",
+    "rating": 4.5,
+    "tourPlace": "Austria"
+  },
+  {
+    "name": "Ava Davis",
+    "photo": "https://i.ibb.co/ZxHJ4mc/p8.jpg",
+    "review": "I had an incredible time exploring the snowy landscapes of Sweden with this agency. The Icehotel experience was unforgettable, and the chance to witness the Sami culture up close was enriching. The agency's well-planned itinerary and knowledgeable guides made it a memorable trip.",
+    "rating": 4.7,
+    "tourPlace": "Sweden"
+  },
+  {
+    "name": "Jackson Wilson",
+    "photo": "https://i.ibb.co/yXBtrtK/p5.jpg",
+    "review": "I recently traveled to Japan with this agency for a winter adventure, and it was fantastic. From skiing in Hokkaido to soaking in traditional hot springs, every day was filled with excitement. The agency's local connections and insider tips made the trip truly exceptional.",
+    "rating": 4.8,
+    "tourPlace": "Japan"
+  },
+  {
+    "name": "Mia Taylor",
+    "photo": "https://i.ibb.co/RN4rqJ3/person.jpg",
+    "review": "My trip to Russia organized by this agency was incredible. The snow-covered landscapes of Moscow and St. Petersburg were enchanting, and the chance to experience traditional Russian cuisine was delightful. The agency's professionalism and attention to detail made it a wonderful experience.",
+    "rating": 3.5,
+    "tourPlace": "Russia"
+  },
+  {
+    "name": "Henry Martinez",
+    "photo": "https://i.ibb.co/xG2jz08/person2.jpg",
+    "review": "I recently visited Germany with this agency for a winter getaway, and it was fantastic. The Christmas markets in Berlin and Munich were magical, and the charming villages in the Black Forest were picturesque. The agency's itinerary was well-planned, ensuring we didn't miss any highlights.",
+    "rating": 4.5,
+    "tourPlace": "Germany"
+  },
+  {
+    "name": "Sofia Thompson",
+    "photo": "https://i.ibb.co/Wc0fJSJ/person3.jpg",
+    "review": "I traveled to South Korea with this agency to experience the beauty of winter in Seoul and Jeju Island, and it was amazing. From skiing in the Korean Alps to exploring the vibrant city streets, every moment was filled with excitement. The agency's local knowledge made the trip unforgettable.",
+    "rating": 4.9,
+    "tourPlace": "South Korea"
+  },
+  {
+    "name": "Noah Wright",
+    "photo": "https://i.ibb.co/N9tPbd8/person4.jpg",
+    "review": "My family and I had a fantastic winter vacation in Switzerland organized by this agency. The Swiss Alps provided breathtaking views, and the cozy chalets made us feel at home. The agency's attention to detail and excellent customer service exceeded our expectations.",
+    "rating": 4.7,
+    "tourPlace": "Switzerland"
+  },
+  {
+    "name": "Grace Walker",
+    "photo": "https://i.ibb.co/ChhfVMk/person6.png",
+    "review": "I recently traveled to Canada with this agency to experience the beauty of Banff National Park in winter, and it was breathtaking. The frozen lakes and snow-capped mountains created a magical atmosphere. The agency's well-organized itinerary and knowledgeable guides made the trip truly memorable.",
+    "rating": 4.8,
+    "tourPlace": "Canada"
+  },
+  {
+    "name": "James Anderson",
+    "photo": "https://i.ibb.co/DbvdVhC/person10.jpg",
+    "review": "I had a fantastic ski trip to Austria organized by this agency. The slopes were challenging, and the après-ski scene was vibrant. The agency's attention to detail and excellent customer service ensured that everything went smoothly. I highly recommend them for your winter adventure.",
+    "rating": 4.6,
+    "tourPlace": "Austria"
+  },
+  {
+    "name": "Emma Roberts",
+    "photo": "https://i.ibb.co/Bzvs097/person7.jpg",
+    "review": "My trip to Finland with this agency was truly unforgettable. The chance to witness the Northern Lights and stay in a glass igloo was a dream come true. The agency's knowledgeable guides and warm hospitality made the experience even more magical. I can't recommend them enough.",
+    "rating": 4.9,
+    "tourPlace": "Finland"
+  },
+  {
+    "name": "Benjamin Harris",
+    "photo": "https://i.ibb.co/BnnXKXs/img3.jpg",
+    "review": "I recently visited Norway with this agency for a winter adventure, and it was incredible. The fjords and snow-covered landscapes were breathtaking, and the chance to go dog sledding was exhilarating. The agency's professionalism and attention to detail made it a fantastic experience.",
+    "rating": 4.7,
+    "tourPlace": "Norway"
+  }
+]
