@@ -4,6 +4,7 @@ import { Inter } from "next/font/google";
 const inter = Inter({ subsets: ["latin"] });
 
 import { Dancing_Script } from "next/font/google";
+import NextTopLoader from "nextjs-toploader";
 
 export const dancing_script = Dancing_Script({
   subsets: ["latin"],
@@ -17,8 +18,11 @@ export const metadata = {
 
 const RootLayout = ({ children }) => {
   return (
-    <html lang="en">
-      <body className={inter.className}>{children}</body>
+    <html lang="en" data-theme="light">
+      <body className={inter.className}>
+        {children}
+        <NextTopLoader />
+      </body>
     </html>
   );
 };

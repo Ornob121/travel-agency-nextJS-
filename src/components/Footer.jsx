@@ -30,8 +30,8 @@ const Footer = () => {
                 <BsFillTelephoneFill className="text-2xl" /> 1 562 867 4578
               </span>
               <span className="flex items-center gap-x-1">
-                <CiLocationOn className="text-2xl text-white" /> Broadway &
-                Morris St, New York
+                <CiLocationOn className="text-2xl text-white" /> 188-41-99
+                <sup className="font-mono">th</sup> Ave, Jamaica, NY, 11412
               </span>
             </div>
           </div>
@@ -97,22 +97,26 @@ const Footer = () => {
               Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nemo.
             </p>
             <div className="flex items-center gap-x-5">
-              <Image
-                src="/footerpic1.jpg"
-                width={60}
-                height={70}
-                // onBlur={true}
-                alt="This is one of our tourist photo"
-                className="hover:scale-[1.1] hover:duration-1000 cursor-pointer"
-              />
-              <Image
-                src="/footerpic2.jpg"
-                width={60}
-                height={70}
-                // onBlur={true}
-                alt="This is one of our tourist photo"
-                className="hover:scale-[1.1] hover:duration-1000 cursor-pointer"
-              />
+              <a href="https://www.instagram.com/" target="_blank">
+                <Image
+                  src="/footerpic1.jpg"
+                  width={60}
+                  height={70}
+                  // onBlur={true}
+                  alt="This is one of our tourist photo"
+                  className="hover:scale-[1.1] hover:duration-1000 cursor-pointer"
+                />
+              </a>
+              <a href="https://www.instagram.com" target="_blank">
+                <Image
+                  src="/footerpic2.jpg"
+                  width={60}
+                  height={70}
+                  // onBlur={true}
+                  alt="This is one of our tourist photo"
+                  className="hover:scale-[1.1] hover:duration-1000 cursor-pointer"
+                />
+              </a>
             </div>
           </div>
         </div>
